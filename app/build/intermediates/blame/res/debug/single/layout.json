@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insert.xml",
+        "source": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\src\\main\\res\\layout\\insert.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete.xml",
+        "source": "F:\\AndroidStudioProjects\\SQLiteDemo\\app\\src\\main\\res\\layout\\delete.xml"
+    }
+]

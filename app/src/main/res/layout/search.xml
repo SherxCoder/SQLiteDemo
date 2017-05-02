@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <EditText 
+        android:id="@+id/searchId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入学号："/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="24sp"
+        android:id="@+id/textv"/>
+    
+    <Button 
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确认查询"/>
+    
+    
+
+</LinearLayout>
